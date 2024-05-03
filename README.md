@@ -1,0 +1,1 @@
+This finance management application meticulously tracks all sources of income and expenditures, providing users with a clear overview of their financial transactions. Additionally, it goes beyond simple tracking by offering personalized dashboards tailored to each user's specific financial needs and goals.
