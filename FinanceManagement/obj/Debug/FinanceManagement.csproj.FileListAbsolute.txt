@@ -1,0 +1,17 @@
+C:\Users\aiswa\source\repos\FinanceManagement\bin\Debug\FinanceManagement.exe.config
+C:\Users\aiswa\source\repos\FinanceManagement\bin\Debug\FinanceManagement.exe
+C:\Users\aiswa\source\repos\FinanceManagement\bin\Debug\FinanceManagement.pdb
+C:\Users\aiswa\source\repos\FinanceManagement\obj\Debug\FinanceManagement.csproj.AssemblyReference.cache
+C:\Users\aiswa\source\repos\FinanceManagement\obj\Debug\FinanceManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\aiswa\source\repos\FinanceManagement\obj\Debug\FinanceManagement.Dashboard.resources
+C:\Users\aiswa\source\repos\FinanceManagement\obj\Debug\FinanceManagement.Properties.Resources.resources
+C:\Users\aiswa\source\repos\FinanceManagement\obj\Debug\FinanceManagement.csproj.GenerateResource.cache
+C:\Users\aiswa\source\repos\FinanceManagement\obj\Debug\FinanceManagement.csproj.CoreCompileInputs.cache
+C:\Users\aiswa\source\repos\FinanceManagement\obj\Debug\FinanceManagement.exe
+C:\Users\aiswa\source\repos\FinanceManagement\obj\Debug\FinanceManagement.pdb
+C:\Users\aiswa\source\repos\FinanceManagement\obj\Debug\FinanceManagement.Incomes.resources
+C:\Users\aiswa\source\repos\FinanceManagement\obj\Debug\FinanceManagement.Expenses.resources
+C:\Users\aiswa\source\repos\FinanceManagement\obj\Debug\FinanceManagement.Login.resources
+C:\Users\aiswa\source\repos\FinanceManagement\obj\Debug\FinanceManagement.Users.resources
+C:\Users\aiswa\source\repos\FinanceManagement\obj\Debug\FinanceManagement.ViewExpenses.resources
+C:\Users\aiswa\source\repos\FinanceManagement\obj\Debug\FinanceManagement.ViewIncomes.resources
